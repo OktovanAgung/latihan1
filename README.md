@@ -55,5 +55,6 @@ $ cd latihan1``
 
 * Jalankan perintah *git init*, untuk membuat repository local.
 `$ git init`
+
 * Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .*git*
 * Pada direktori tersebut, semua perubahan pada `working directory` akan disimpan.
