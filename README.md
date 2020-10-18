@@ -113,3 +113,6 @@ $ cd latihan1``
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
+
+![Anotasi 2020-10-18 133721](https://user-images.githubusercontent.com/72904723/96361735-638b5c00-1152-11eb-9c36-c9c8cbba689a.png)
+
