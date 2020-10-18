@@ -73,3 +73,5 @@ $ cd latihan1``
 * Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 `$ git add README.md`
 * File *README.md* berhasil ditambahkan.
+
+![Anotasi 2020-10-18 133225](https://user-images.githubusercontent.com/72904723/96361427-b9aad000-114f-11eb-9ae2-af615bd9a7cb.png)
