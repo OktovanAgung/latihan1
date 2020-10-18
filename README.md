@@ -47,4 +47,6 @@ $ git config --global user.email “nama_user”
 * Buat direktory project praktikum pertama dengan nama *latihan1*
 ``$ mkdir latihan1
 $ cd latihan1``
-
+![Anotasi 2020-10-18 132621](https://user-images.githubusercontent.com/72904723/96360998-20c68580-114c-11eb-99cd-47449836ee37.png)
+* Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah *cd* ``(change directory)``
+* direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
