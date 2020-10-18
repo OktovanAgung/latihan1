@@ -107,7 +107,7 @@ $ cd latihan1``
 
 * Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
 * Untuk menambahkan remote repository server, gunakan perintah *git remote add origin [url]*
-`$ git remote add origin https://github.com/noval1802/LatihanVCS.git`
+`$ git remote add origin https://github.com/OktovanAgung/latihan1.git`
 
 ![Anotasi 2020-10-18 133456](https://user-images.githubusercontent.com/72904723/96361709-2757fb80-1152-11eb-98da-43c7ef81ff0e.png)
 
