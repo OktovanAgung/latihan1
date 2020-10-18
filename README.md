@@ -97,3 +97,11 @@ $ cd latihan1``
 
 * Isi nama repositorynya, misal: labpy1.
 * lalu klik tombol Create repository
+
+![Anotasi 2020-10-18 132001](https://user-images.githubusercontent.com/72904723/96361571-15298d80-1151-11eb-8d0a-66f24227dc89.png)
+
+### Menambahkan Remote Repository
+
+* Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
+* Untuk menambahkan remote repository server, gunakan perintah *git remote add origin [url]*
+`$ git remote add origin https://github.com/noval1802/LatihanVCS.git`
