@@ -120,3 +120,10 @@ $ cd latihan1``
 
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
+
+![Anotasi 2020-10-18 150436](https://user-images.githubusercontent.com/72904723/96361833-53c04780-1153-11eb-85c0-092087bab155.png)
+
+### Clone Repository
+
+* Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+* Untuk melakukan cloning, gunakan perintah `git clone [url]`
