@@ -47,3 +47,4 @@ $ git config --global user.email “nama_user”
 * Buat direktory project praktikum pertama dengan nama *latihan1*
 ``$ mkdir latihan1
 $ cd latihan1``
+
