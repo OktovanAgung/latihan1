@@ -58,3 +58,10 @@ $ cd latihan1``
 ![Anotasi 2020-10-18 132716](https://user-images.githubusercontent.com/72904723/96361201-0392b680-114e-11eb-8566-6dac0b756bd4.png)
 * Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .*git*
 * Pada direktori tersebut, semua perubahan pada `working directory` akan disimpan.
+
+### Menambahkan File baru pada repository
+
+* Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+* disini kita akan coba buat satu file bernama README.md (text file)
+`$ echo “# Latihan 1” >> README.md`
+* File *README.md* berhasil dibuat.
