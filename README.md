@@ -116,3 +116,7 @@ $ cd latihan1``
 
 ![Anotasi 2020-10-18 133721](https://user-images.githubusercontent.com/72904723/96361735-638b5c00-1152-11eb-9c36-c9c8cbba689a.png)
 
+### Melihat hasilnya pada server repository
+
+* Buka laman github.com, arahkan pada repositorinya.
+* Maka perubahan akan terlihat pada laman tersebut.
